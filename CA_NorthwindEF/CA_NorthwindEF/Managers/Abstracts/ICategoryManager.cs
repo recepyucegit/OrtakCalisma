@@ -15,5 +15,8 @@ namespace CA_NorthwindEF.Managers.Abstracts
 
         List<Category> GetCategories(bool isDesc);
         Category GetCategoryById(int id);
+
+
+
     }
 }
