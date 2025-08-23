@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CA_NorthwindEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ccc0485ca7a9f505d234c0c27a32a5ab88233a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf643f25ab4d03a7287f4eb4aafd89a311587fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CA_NorthwindEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CA_NorthwindEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
